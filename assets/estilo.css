@@ -276,3 +276,22 @@ section.intro:first-of-type { margin-top: 0; }
   .ftab .fc { margin-top: 0; }
   main { padding-top: 22px; }
 }
+
+/* ---------- ancho: contenido centrado y más aprovechado en pantallas grandes ---------- */
+main { width: 100%; max-width: 1320px; margin: 0 auto; padding: 40px clamp(20px, 4vw, 72px) 80px; }
+.sec .body { max-width: none; }
+.sec .body > p, .sec .body > ul, .sec .body > ol, .sec .body > dl { max-width: 92ch; }
+section.intro p, section.intro li { max-width: 92ch; }
+.fhead .res { max-width: 72ch; }
+.cover .lead { max-width: 64ch; }
+.cover h1 { max-width: none; }
+table.dic, table.files, .vers { width: 100%; }
+.pipe { max-width: 100%; }
+@media (min-width: 1600px) {
+  .layout { grid-template-columns: 320px minmax(0, 1fr); }
+  main { max-width: 1400px; }
+  body { font-size: 16.5px; }
+}
+@media (max-width: 860px) {
+  main { padding: 22px 16px 60px; }
+}
