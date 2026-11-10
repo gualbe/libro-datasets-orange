@@ -23,5 +23,6 @@ anexos (de cada fichero original a su ficha, formatos de fichero en Orange, add-
 | `assets/` | Estilos, fuentes y script |
 | `descargas/` | Libro en PDF |
 
-El sitio es HTML estático generado a partir de las fuentes del libro (`sitio.py`, plantillas Jinja y una ficha YAML por
-dataset); no hay que compilar nada para publicarlo. GitHub Pages lo sirve desde la rama `main`, carpeta raíz.
+El sitio es HTML estático, generado con las mismas fuentes que el PDF (plantillas Jinja y una ficha YAML por dataset,
+que se guardan aparte con el material del curso). No hay que compilar nada para publicarlo: GitHub Pages lo sirve desde
+la rama `main`, carpeta raíz. Para actualizarlo, se regenera y se sustituye el contenido del repo.
