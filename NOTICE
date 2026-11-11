@@ -1,0 +1,32 @@
+Fichas de datasets para Orange
+https://gualbe.github.io/libro-datasets-orange/
+https://github.com/gualbe/libro-datasets-orange
+
+Copyright © 2026 Gualberto Asencio Cortés. Todos los derechos reservados.
+Autor: Gualberto Asencio Cortés. Licencia: ver el fichero LICENSE.
+
+Componentes de terceros
+-----------------------
+
+Estos componentes no son obra del autor y conservan sus licencias:
+
+- Fuentes tipográficas incluidas en assets/fuentes/ (formato WOFF2, distribuidas
+  a través de Fontsource), bajo la SIL Open Font License, versión 1.1:
+  - Bricolage Grotesque, Copyright 2022 The Bricolage Grotesque Project Authors
+    (https://github.com/ateliertriay/bricolage).
+    Licencia: LICENSES/OFL-1.1-Bricolage-Grotesque.txt
+  - Red Hat Text, Copyright 2024 The Red Hat Project Authors
+    (https://github.com/RedHatOfficial/RedHatFont).
+    Licencia: LICENSES/OFL-1.1-Red-Hat-Text.txt
+  - Red Hat Mono, Copyright 2024 The Red Hat Project Authors
+    (https://github.com/RedHatOfficial/RedHatFont).
+    Licencia: LICENSES/OFL-1.1-Red-Hat-Mono.txt
+
+- Los datasets descritos en las fichas no forman parte de este repositorio. Se
+  publican aparte en https://github.com/gualbe/datasets y cada ficha cita su
+  fuente original, cuyos autores y condiciones de uso se mantienen.
+
+- Orange Data Mining es un programa del Bioinformatics Laboratory, Facultad de
+  Informática y Ciencias de la Información, Universidad de Liubliana
+  (https://orangedatamining.com/). Su nombre y los de sus widgets se usan solo
+  para referirse a ellos.
