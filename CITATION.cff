@@ -9,6 +9,7 @@ authors:
   - family-names: "Asencio Cortés"
     given-names: "Gualberto"
 date-released: "2026-11-10"
+doi: "10.5281/zenodo.24141555"
 license-url: "https://github.com/gualbe/libro-datasets-orange/blob/main/LICENSE"
 repository-code: "https://github.com/gualbe/libro-datasets-orange"
 url: "https://gualbe.github.io/libro-datasets-orange/"
@@ -24,4 +25,5 @@ preferred-citation:
     - family-names: "Asencio Cortés"
       given-names: "Gualberto"
   year: 2026
+  doi: "10.5281/zenodo.24141555"
   url: "https://gualbe.github.io/libro-datasets-orange/"

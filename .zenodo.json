@@ -1,0 +1,10 @@
+{
+  "title": "Fichas de datasets para Orange",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "description": "<p>Catálogo visual de 135 datasets para practicar ciencia de datos con Orange Data Mining: contenido, fuente, variable objetivo, particularidades y flujo de trabajo de cada uno. Material del curso de ciencia de datos con Orange (nivel intermedio). Web: <a href=\"https://gualbe.github.io/libro-datasets-orange/\">https://gualbe.github.io/libro-datasets-orange/</a></p><p>© 2026 Gualberto Asencio Cortés. Todos los derechos reservados: se permite consultarlo y usarlo para el estudio personal; no se permite reproducirlo, distribuirlo ni transformarlo sin autorización del autor (ver el fichero LICENSE).</p>",
+  "creators": [{"name": "Asencio Cortés, Gualberto"}],
+  "license": "zenodo-freetoread-1.0",
+  "language": "spa",
+  "keywords": ["Orange Data Mining", "datasets", "ciencia de datos", "docencia"]
+}

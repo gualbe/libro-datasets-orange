@@ -1,5 +1,7 @@
 # Fichas de datasets para Orange
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24141555.svg)](https://doi.org/10.5281/zenodo.24141555)
+
 Web del libro de fichas de datasets del curso de ciencia de datos con Orange (nivel intermedio):
 **https://gualbe.github.io/libro-datasets-orange/**
 
@@ -40,4 +42,4 @@ SIL Open Font License 1.1, y los datasets conservan las condiciones de su fuente
 
 **Cómo citar.** Usa los metadatos de [`CITATION.cff`](CITATION.cff) (GitHub ofrece «Cite this repository»), por ejemplo:
 
-> Asencio Cortés, G. (2026). *Fichas de datasets para Orange*. https://gualbe.github.io/libro-datasets-orange/
+> Asencio Cortés, G. (2026). *Fichas de datasets para Orange*. https://doi.org/10.5281/zenodo.24141555
